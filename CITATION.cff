@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: >-
+  Randomized Row-Swap: Mitigating Row Hammer by Breaking Spatial Correlation Between Aggressor and Victim Rows
+message: Source Code for the Randomized Row Swap Technique
+type: software
+authors:
+  - given-names: 'Gururaj'
+    family-names: Saileshwar
+    email: gururaj.s@gatech.edu
+    affiliation: Georgia Institute of Technology
+  - given-names: 'Bolin'
+    family-names: Wang
+    email: bolin@ece.ubc.ca
+    affiliation: University of British Columbia
+  - given-names: Moinuddin K.
+    family-names: Qureshi
+    email: moin@ece.gatech.edu
+    affiliation: Georgia Institute of Technology
+  - given-names: Prashant J.
+    family-names: Nair
+    email: prashantnair@ece.ubc.ca
+    affiliation: University of British Columbia
+    orcid: 'https://orcid.org/0000-0002-1732-4314'
